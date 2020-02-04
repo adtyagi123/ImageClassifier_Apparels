@@ -16,7 +16,7 @@ The followinf is the label description:
 9	Ankle boot
 
 
-The metric of success is the multi-class accuracy
+The metric of success is the multi-class accuracy.
 
 # Files
 The "IdentifyTheApparels.ipynb" file contains the code for loading data set, training the model, running test on validation dataset and making prediction on the test data set. 
